@@ -297,7 +297,6 @@ int main() {
 }
 
 # Output:
-<img width="1920" height="1080" alt="Screenshot 2025-12-28 094807" src="https://github.com/user-attachments/assets/063a07d3-4c59-4cd6-a58c-90decb98e3cd" />
 
 
 # Result: 
